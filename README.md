@@ -5,11 +5,12 @@ Este repositorio contiene las actividades desarrolladas para la asignatura **Pro
 ## Contenido
 
 ### Semana 1
-- preguntas-semana1.txt
-- reflexion-semana1.txt
-- algoritmo-semana1.txt
+
+- 📄 [Preguntas - Semana 1](semana1/preguntas-semana1.txt)
+- 📄 [Reflexión - Semana 1](semana1/reflexion-semana1.txt)
+- 📄 [Algoritmo - Semana 1](semana1/algoritmo-semana1.txt)
 
 ## Autor
 
-- Nombre: [Tu nombre]
-- Fecha: Julio de 2026
+- **Nombre:** YANEIDIS CUESTA GARCÍA
+- **Fecha:** Julio de 2026
