@@ -1,0 +1,37 @@
+Comandos utilizados durante la actividad - Semana 2
+
+1. pwd
+   Muestra la ubicación actual dentro del sistema de carpetas.
+
+2. ls
+   Lista los archivos y carpetas del directorio actual.
+
+3. mkdir semana2
+   Crea la carpeta llamada "semana2".
+
+4. cd semana2
+   Ingresa a la carpeta "semana2".
+
+5. touch preguntas-semana2.txt
+   Crea el archivo de preguntas.
+
+6. touch comandos-terminal.txt
+   Crea el archivo para registrar los comandos utilizados.
+
+7. touch reflexion-semana2.txt
+   Crea el archivo donde se escribe la reflexión de la semana.
+
+8. cd ..
+   Regresa a la carpeta principal del repositorio.
+
+9. git status
+   Verifica el estado de los archivos antes de guardarlos.
+
+10. git add .
+    Agrega todos los archivos modificados al área de preparación.
+
+11. git commit -m "Actividad semana 2"
+    Guarda los cambios en el historial del repositorio.
+
+12. git push
+    Publica los cambios realizados en el repositorio de GitHub.

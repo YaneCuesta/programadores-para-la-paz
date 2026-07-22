@@ -1,0 +1,37 @@
+Preguntas de selección múltiple – Semana 2
+
+Pregunta 1:
+¿Cuál es la función principal de la terminal en un sistema operativo?
+
+Respuesta:
+B. Ejecutar comandos para interactuar con el sistema.
+
+Justificación:
+La terminal permite ejecutar comandos para administrar archivos, carpetas, programas y otras funciones del sistema operativo.
+
+Pregunta 2:
+¿Qué hace el comando pwd?
+
+Respuesta:
+B. Muestra la ubicación actual dentro del sistema de carpetas.
+
+Justificación:
+El comando `pwd` (Print Working Directory) muestra la ruta de la carpeta en la que se encuentra el usuario.
+
+Pregunta 3:
+¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+
+Respuesta:
+C. ls
+
+Justificación:
+El comando `ls` muestra el contenido del directorio actual, incluyendo archivos y carpetas.
+
+Pregunta 4:
+¿Cuál comando permite crear una carpeta nueva desde la terminal?
+
+Respuesta:
+B. mkdir
+
+Justificación:
+El comando `mkdir` se utiliza para crear un nuevo directorio o carpeta.
