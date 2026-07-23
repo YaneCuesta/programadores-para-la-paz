@@ -1,0 +1,37 @@
+Preguntas de selección múltiple – Semana 3
+
+Pregunta 1:
+¿Qué es Git?
+
+Respuesta:
+B. Un sistema de control de versiones para registrar cambios en proyectos.
+
+Justificación:
+Git permite llevar un historial de los cambios realizados en un proyecto y facilita el trabajo colaborativo.
+
+Pregunta 2:
+¿Cuál es la función principal de un repositorio?
+
+Respuesta:
+B. Registrar y organizar los archivos y cambios de un proyecto.
+
+Justificación:
+Un repositorio almacena los archivos del proyecto y mantiene un registro de todas las modificaciones realizadas.
+
+Pregunta 3:
+¿Qué hace el comando git add .?
+
+Respuesta:
+B. Agrega archivos al área de preparación para registrar cambios.
+
+Justificación:
+Este comando prepara todos los archivos nuevos o modificados para que puedan incluirse en un commit.
+
+Pregunta 4:
+¿Qué hace el comando git commit?
+
+Respuesta:
+A. Guarda un registro de cambios realizados en el proyecto.
+
+Justificación:
+El comando `git commit` crea un registro permanente de los cambios preparados, permitiendo mantener el historial del proyecto.
