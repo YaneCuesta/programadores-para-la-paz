@@ -16,6 +16,12 @@ Este repositorio contiene las actividades desarrolladas para la asignatura **Pro
 - 📄 [Comandos de la Terminal - Semana 2](semana2/comandos-terminal.txt)
 - 📄 [Reflexión - Semana 2](semana2/reflexion-semana2.txt)
 
+### 📁 Semana 3
+
+- 📄 [Preguntas - Semana 3](semana3/preguntas-semana3.txt)
+- 📄 [Conceptos de Git - Semana 3](semana3/conceptos-git.txt)
+- 📄 [Reflexión - Semana 3](semana3/reflexion-semana3.txt)
+
 ## 👤 Autor
 
 - **Nombre:** YANEIDIS CUESTA GARCÍA
