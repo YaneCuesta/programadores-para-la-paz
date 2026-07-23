@@ -2,7 +2,7 @@
 
 Este repositorio contiene las actividades desarrolladas para la asignatura **Programadores para la Paz**.
 
-## 📂 Contenido Módulo 1: Tecnologías de la Comunicación y Desarrollo de Aplicaciones Web
+## 📂 Contenido
 
 ### 📁 Semana 1
 
@@ -21,6 +21,13 @@ Este repositorio contiene las actividades desarrolladas para la asignatura **Pro
 - 📄 [Preguntas - Semana 3](semana3/preguntas-semana3.txt)
 - 📄 [Conceptos de Git - Semana 3](semana3/conceptos-git.txt)
 - 📄 [Reflexión - Semana 3](semana3/reflexion-semana3.txt)
+
+### 📁 Semana 4
+
+- 📄 [Preguntas - Semana 4](semana4/preguntas-semana4.txt)
+- 📄 [Servidor Node.js - Semana 4](semana4/server.js)
+- 📄 [Reflexión - Semana 4](semana4/reflexion-semana4.txt)
+- 📄 [Package.json - Semana 4](semana4/package.json)
 
 ## 👤 Autor
 

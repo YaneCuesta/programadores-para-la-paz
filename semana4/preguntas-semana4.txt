@@ -1,0 +1,37 @@
+Preguntas de selección múltiple – Semana 4
+
+Pregunta 1:
+¿Qué es Node.js?
+
+Respuesta:
+B. Un entorno que permite ejecutar JavaScript en el servidor.
+
+Justificación:
+Node.js permite ejecutar código JavaScript fuera del navegador, facilitando el desarrollo de aplicaciones del lado del servidor.
+
+Pregunta 2:
+¿Qué hace el comando npm init?
+
+Respuesta:
+B. Inicializa un proyecto Node.js creando el archivo package.json.
+
+Justificación:
+Este comando crea el archivo package.json, donde se almacena la configuración y las dependencias del proyecto.
+
+Pregunta 3:
+¿Qué es Express en Node.js?
+
+Respuesta:
+B. Un framework para construir servidores y APIs en Node.js.
+
+Justificación:
+Express simplifica la creación de servidores web y el manejo de rutas en aplicaciones desarrolladas con Node.js.
+
+Pregunta 4:
+¿Qué hace una ruta en una aplicación web?
+
+Respuesta:
+B. Define cómo responde el servidor cuando un usuario accede a una URL.
+
+Justificación:
+Las rutas permiten indicar qué respuesta enviará el servidor cuando un usuario visite una dirección específica.
