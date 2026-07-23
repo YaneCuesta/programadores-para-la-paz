@@ -2,7 +2,7 @@
 
 Este repositorio contiene las actividades desarrolladas para la asignatura **Programadores para la Paz**.
 
-## 📂 Contenido
+## 📂 Contenido Módulo 1: Tecnologías de la Comunicación y Desarrollo de Aplicaciones Web
 
 ### 📁 Semana 1
 
